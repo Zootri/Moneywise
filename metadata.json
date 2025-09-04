@@ -1,0 +1,5 @@
+{
+  "name": "MoneyWise",
+  "description": "A secure and intuitive application for users to log their income and expenses, complete with insightful data visualizations to help manage personal finances effectively.",
+  "requestFramePermissions": []
+}
